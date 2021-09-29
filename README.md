@@ -1,1 +1,1 @@
-# Lanterns-featured-products-page
+https://featured-product.netlify.app/
